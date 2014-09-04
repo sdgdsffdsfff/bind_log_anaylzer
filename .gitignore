@@ -3,3 +3,5 @@ log
 dns-data
 ip
 testlog
+out.txt
+out_new.txt
